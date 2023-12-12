@@ -1,0 +1,8 @@
+[console_scripts]
+glove = ec545_final.gloveSimulator:main
+logger = ec545_final.OdometryLogger:main
+odometryPublisher = ec545_final.odometryPublisher:main
+planner = ec545_final.pathPlannerCustom:main
+spawner = ec545_final.spawner:main
+tagToOdo = ec545_final.tagToOdo:main
+

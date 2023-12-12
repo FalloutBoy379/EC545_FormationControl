@@ -1,0 +1,73 @@
+running egg_info
+creating build/ec545_final/ec545_final.egg-info
+writing build/ec545_final/ec545_final.egg-info/PKG-INFO
+writing dependency_links to build/ec545_final/ec545_final.egg-info/dependency_links.txt
+writing entry points to build/ec545_final/ec545_final.egg-info/entry_points.txt
+writing requirements to build/ec545_final/ec545_final.egg-info/requires.txt
+writing top-level names to build/ec545_final/ec545_final.egg-info/top_level.txt
+writing manifest file 'build/ec545_final/ec545_final.egg-info/SOURCES.txt'
+reading manifest file 'build/ec545_final/ec545_final.egg-info/SOURCES.txt'
+writing manifest file 'build/ec545_final/ec545_final.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build
+creating /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib
+creating /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+copying ec545_final/pathPlanner.py -> /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+copying ec545_final/glove.py -> /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+copying ec545_final/__init__.py -> /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+copying ec545_final/pidController.py -> /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+copying ec545_final/odometryPublisher.py -> /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+copying ec545_final/tagToOdo.py -> /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+copying ec545_final/newPlanner.py -> /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+copying ec545_final/pathPlannerSimulation_Working.py -> /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+copying ec545_final/OdometryLogger.py -> /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+copying ec545_final/testPlanner.py -> /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+copying ec545_final/spawner.py -> /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+copying ec545_final/pathPlannerCustom.py -> /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final
+running install
+running install_lib
+creating /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+copying /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final/pathPlanner.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+copying /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final/glove.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+copying /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final/__init__.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+copying /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final/pidController.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+copying /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final/odometryPublisher.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+copying /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final/tagToOdo.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+copying /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final/newPlanner.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+copying /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final/pathPlannerSimulation_Working.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+copying /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final/OdometryLogger.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+copying /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final/testPlanner.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+copying /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final/spawner.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+copying /home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/build/lib/ec545_final/pathPlannerCustom.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final
+byte-compiling /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final/pathPlanner.py to pathPlanner.cpython-310.pyc
+byte-compiling /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final/glove.py to glove.cpython-310.pyc
+byte-compiling /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final/pidController.py to pidController.cpython-310.pyc
+byte-compiling /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final/odometryPublisher.py to odometryPublisher.cpython-310.pyc
+byte-compiling /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final/tagToOdo.py to tagToOdo.cpython-310.pyc
+byte-compiling /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final/newPlanner.py to newPlanner.cpython-310.pyc
+byte-compiling /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final/pathPlannerSimulation_Working.py to pathPlannerSimulation_Working.cpython-310.pyc
+byte-compiling /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final/OdometryLogger.py to OdometryLogger.cpython-310.pyc
+byte-compiling /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final/testPlanner.py to testPlanner.cpython-310.pyc
+byte-compiling /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final/spawner.py to spawner.cpython-310.pyc
+byte-compiling /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final/pathPlannerCustom.py to pathPlannerCustom.cpython-310.pyc
+running install_data
+creating /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/share/ament_index
+creating /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/share/ament_index/resource_index
+creating /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/share/ament_index/resource_index/packages
+copying resource/ec545_final -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/share/ament_index/resource_index/packages
+copying package.xml -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/share/ec545_final
+copying msg/robot.msg -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/share/ec545_final
+creating /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/share/ec545_final/launch
+copying launch/turtle_launch.py -> /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/share/ec545_final/launch
+running install_egg_info
+Copying build/ec545_final/ec545_final.egg-info to /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/python3.10/site-packages/ec545_final-0.0.0-py3.10.egg-info
+running install_scripts
+Installing glove script to /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/ec545_final
+Installing logger script to /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/ec545_final
+Installing odometryPublisher script to /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/ec545_final
+Installing planner script to /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/ec545_final
+Installing spawner script to /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/ec545_final
+Installing tagToOdo script to /home/falloutboy379/project_ws/src/ec545_final/install/ec545_final/lib/ec545_final
+writing list of installed files to '/home/falloutboy379/project_ws/src/ec545_final/build/ec545_final/install.log'
